@@ -7,9 +7,7 @@ This is a Spring Boot application that provides a REST API to query product pric
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [API Documentation](#api-documentation)
-- [Running the Application](#running-the-application)
-- [Testing](#testing)
-- [License](#license)
+- [Metrics](#metrics)
 
 ## Technologies Used
 
