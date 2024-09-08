@@ -1,0 +1,12 @@
+com\pricingservice\PriceServiceApplication.class
+com\pricingservice\mapper\PriceMapperImpl.class
+com\pricingservice\infrastucture\repository\PriceRepository.class
+com\pricingservice\infrastucture\config\MetricsConfig.class
+com\pricingservice\infrastucture\config\SwaggerConfig.class
+com\pricingservice\application\PriceService.class
+com\pricingservice\application\PriceServiceImpl.class
+com\pricingservice\mapper\PriceMapper.class
+com\pricingservice\infrastucture\config\ResilienceConfig.class
+com\pricingservice\dto\PriceDto.class
+com\pricingservice\infrastucture\controller\PriceController.class
+com\pricingservice\domain\Price.class
